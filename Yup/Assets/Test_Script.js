@@ -5,6 +5,6 @@ function Start () {
 }
 
 function Update () {
-Test change
+var test = "Test change";
 
 }
