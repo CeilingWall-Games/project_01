@@ -32,7 +32,7 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_TEAM_LICENSE
--r:"E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
--r:"E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
 -i:UnityEditor
 Assets/Test_Script.js
